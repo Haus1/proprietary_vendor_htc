@@ -34,6 +34,7 @@ PRODUCT_COPY_FILES += \
         vendor/htc/jewel/proprietary/lib/libmlplatform.so:/system/lib/libmlplatform.so \
         vendor/htc/jewel/proprietary/lib/libmllite.so:/system/lib/libmllite.so \
         vendor/htc/jewel/proprietary/lib/libmpl.so:/system/lib/libmpl.so \
+        vendor/htc/jewel/proprietary/lib/libmpl_jni.so:/system/lib/libmpl_jni.so \
         vendor/htc/jewel/proprietary/bin/netmgrd:/system/bin/netmgrd \
         vendor/htc/jewel/proprietary/bin/qmuxd:/system/bin/qmuxd \
         vendor/htc/jewel/proprietary/bin/rmt_storage:/system/bin/rmt_storage \
